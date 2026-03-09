@@ -1,7 +1,0 @@
-.DS_Store
-*.zip
-build
-*.exe
-*.o
-PCB/home
-.vscode
